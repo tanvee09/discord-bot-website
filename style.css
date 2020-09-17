@@ -1,6 +1,14 @@
+html {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
 body {
     background-image: url('bg.jpeg');
     margin: 0;
+    min-height: 100%;
+    width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Varta', sans-serif;
